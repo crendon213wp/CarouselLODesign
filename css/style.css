@@ -61,15 +61,15 @@ p {
 }
 
 .carousel-inner #image-1 {
-  background-image: url("/img/mamriot-cover_a.jpg");
+  background-image: url("../img/mamriot-cover_a.jpg");
 }
 
 .carousel-inner #image-2 {
-  background-image: url("/img/188601411_334890231327048_8290763117116608678_n.jpg");
+  background-image: url("../img/188601411_334890231327048_8290763117116608678_n.jpg");
 }
 
 .carousel-inner #image-3 {
-  background-image: url("/img/DSC_4787_a.jpg");
+  background-image: url("../img/DSC_4787_a.jpg");
   background-position: center top;
 }
 
